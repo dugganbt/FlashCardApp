@@ -8,6 +8,7 @@ a = Analysis(
     binaries=[],
     datas=[
         ('data/french_words.csv', 'data'),
+        ('data/spanish_words.csv', 'data'),
         ('images/card_back.png', 'images'),
         ('images/card_front.png', 'images'),
         ('images/right.png', 'images'),
